@@ -9,5 +9,8 @@
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nek0cha&theme=transparent)
 
 ### 🛠 SKills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,kotlin,nodejs,ps,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,unity)](https://skillicons.dev)
+
 
