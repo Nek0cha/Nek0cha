@@ -1,11 +1,11 @@
-# Hi there, I'm NekoChan 👋
+# Hi there, I'm Neko 👋
 
 ### 💫 About Me
 - 🔭 I'm working on ...: Minecraft Modding
-- 🌱 I’m currently learning ...: Java, C#
+- 🌱 I’m currently learning ...: Java, TypeScript
 
 ### 🛠 SKills
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,nodejs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
 ![details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nek0cha&theme=transparent)
