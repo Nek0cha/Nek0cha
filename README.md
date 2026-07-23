@@ -4,6 +4,7 @@
 - 🌐 My profile: https://ny4n.net/
 - 🔭 I'm working on ...: Minecraft Modding
 - 🌱 I’m currently learning ...: TypeScript, Linux
+- ⚡ Fun fact: Infinity Melting 🫠
 - 🎮 Currently playing: Minecraft, Gacha Games
 - 📫 How to reach me: [info@ny4n.net](mailto:info@ny4n.net)
 
