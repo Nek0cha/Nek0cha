@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...: TypeScript, Linux
 - ⚡ Fun fact: Infinity Melting 🫠
 - 🎮 Currently playing: Minecraft, Gacha Games
-- 📫 How to reach me: [info@ny4n.net](mailto:info@ny4n.net)
+- 📫 How to reach me: [contact@ny4n.net](mailto:contact@ny4n.net)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&pause=1000&color=788BF7&vCenter=true&width=435&height=20&lines=Skills)](https://git.io/typing-svg)
 
