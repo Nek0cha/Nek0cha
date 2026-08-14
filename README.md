@@ -49,7 +49,7 @@ DiscordでしりとりができるBOT。LLMなどのAPI不要。
 スクリーンショット撮影時に自動的にクリップボードにスクリーンショットをコピーするFabric Mod。
 Windows、macOS、Linuxで動作確認済み。
 
-🔗 https://modrinth.com/sstoclip
+🔗 https://modrinth.com/mod/sstoclip
 
 ---
 
