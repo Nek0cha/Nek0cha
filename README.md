@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/ykPEGDXWzj"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/ZfVQnXR78t"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://x.com/zz223_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
 
