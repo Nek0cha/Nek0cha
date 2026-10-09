@@ -43,7 +43,7 @@
 
 ![Top Languages](https://ghstats.dev/api/langs?username=Nek0cha&max_langs=6)
 
-![](https://komarev.com/ghpvc/?username=Nek0cha&style=for-the-badge&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Nek0cha&style=for-the-badge&color=5b697f)
 <p align="center">
   <sub><a href="https://infinity-melting.ny4n.net/">🫠</sub>
 </p>
