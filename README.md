@@ -32,31 +32,9 @@
 
 ---
 
-## Projects
-
-### [AdvancedNewTab](https://github.com/Nek0cha/AdvancedNewTab)
-新しいタブをカスタマイズできるChrome拡張機能。
-
-🔗 https://newtab.ny4n.net/
-
-### [MultiAccount](https://github.com/Nek0cha/MultiAccount)
-Velocity + Paper: 同一Mojangアカウントによるデバッグ用多重ログインプラグイン。
-
-### [ShiritoriBot](https://github.com/Nek0cha/ShiritoriBot)
-DiscordでしりとりができるBOT。LLMなどのAPI不要。
-
-### [ScreenshotToClipboard](https://github.com/Nek0cha/ScreenshotToClipboard)
-スクリーンショット撮影時に自動的にクリップボードにスクリーンショットをコピーするFabric Mod。
-Windows、macOS、Linuxで動作確認済み。
-
-🔗 https://modrinth.com/mod/sstoclip
-
----
-
 ## Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
